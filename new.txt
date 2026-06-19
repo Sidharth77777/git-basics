@@ -3,4 +3,4 @@ hello guys 25 (done merge from local)
 
 hello guys 23 (done merge of github)
 
-from 'dev' branch
+from 'dev' branch -> doing merge conflict

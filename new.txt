@@ -12,3 +12,5 @@ new conflict
 did both merged
 
 wanna look git diff
+
+hey main conflict'

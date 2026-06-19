@@ -10,3 +10,5 @@ conflicted from dev
 new conflict
 
 did both merged
+
+wanna look git diff

@@ -13,4 +13,4 @@ did both merged
 
 wanna look git diff
 
-hey main conflict'
+feature branch added`, again feature
